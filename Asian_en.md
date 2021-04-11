@@ -1,6 +1,6 @@
 **If you want to continue with Hindi then tap the link below:**
 
-[Hindi]()
+[Hindi](https://github.com/Aayon-Mukherjee/Asian_Paints_hi/blob/main/Asian_hi.md)
 
 ![Asian Paint Logo](http://3.bp.blogspot.com/-vb6_OW_YFOI/UGt0Jgb4DYI/AAAAAAAANrg/jWniKqe0N6Y/s1600/Asian+Paints+logo.png)
 
@@ -158,7 +158,7 @@ While painting your home’s exteriors might seem like an added cost and somethi
 ## OTHER BRANDS THAT CAN BE CONSIDERED:
 
 * [Berger_Paints](https://github.com/Aayon-Mukherjee/BERGER_PAINTS_en/blob/main/Berger_en.md)
-* [Nerolac_Paints]()
+* [Nerolac_Paints](https://github.com/Aayon-Mukherjee/Nerolac_Paints_en/blob/main/Nerolac_en.md)
   
 ---
 <h3 align="left">Connect with Asian Paints :</h3>
